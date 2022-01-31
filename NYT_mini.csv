@@ -1,4 +1,4 @@
-Time (min),Date,Number of words,Number of unknown words,Time tried,Player
+﻿Time (min),Date,Number of words,Number of unknown words,Time tried,Player
 1:27,11/29/2021,10,2,8:46,Julia
 0:57,11/29/2021,10,1,12:06,Mike
 0:48,11/30/2021,10,1,10:00,Julia
@@ -74,3 +74,4 @@ Time (min),Date,Number of words,Number of unknown words,Time tried,Player
 2:56,1/27/2022,10,1,10:31,Julia
 1:00,1/27/2022,10,0,11:50,Mike
 0:42,1/28/2022,10,0,10:03,Julia
+0:33,1/30/2022,10,1,17:15,Julia
