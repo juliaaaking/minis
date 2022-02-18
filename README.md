@@ -9,3 +9,4 @@ Who is the Best at the NYT Daily Mini Crossword?
   * average time of day
   * vocabulary (how many words you don't know)
 * Decide how to decide who wins at the NYT Daily Mini Crossword
+* Update notebook and push to this repo
